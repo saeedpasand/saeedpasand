@@ -11,6 +11,9 @@ nav{
     height: 70px;
     padding: 0 10%;
     background-color: gainsboro;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
 
